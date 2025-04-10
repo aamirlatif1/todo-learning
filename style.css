@@ -1,0 +1,19 @@
+.wrapper{
+  border-color: #ccc; 
+  border-style: ridge; 
+  width: 200px;
+}
+.wrapper div {
+  border-style: dotted;
+  border-color: blue;
+  padding-left: 10px;
+  margin: 5px;
+}
+
+.wrapper div:hover {
+  background-color: #ccc;
+}
+
+.add-btn{
+  text-decoration:none
+}
