@@ -17,3 +17,11 @@
 .add-btn{
   text-decoration:none
 }
+
+.wrapper textarea {
+  border-color: #ccc;
+  outline: none;
+  resize: none; 
+  white-space: nowrap;
+  overflow-x: scroll;
+}
